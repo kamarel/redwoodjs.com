@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^2.0.6",
-    "@octokit/rest": "^16.43.1",
+    "@octokit/rest": "18.12.0",
     "algoliasearch": "^4.3.0",
     "autoprefixer": "^9.7.4",
     "blueimp-md5": "^2.12.0",
